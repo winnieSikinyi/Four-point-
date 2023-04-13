@@ -1,0 +1,26 @@
+nav a{
+margin: 20px;
+}
+h2{
+    text-align: center;
+}
+.test{
+    margin-left: 20%;
+}
+
+nav{
+    background-color: black;
+    padding: 20px;
+}
+nav a{
+    color: antiquewhite;
+    text-decoration: none;
+}
+
+.venture{
+    color: aqua;
+}
+body{
+    background-color: gray;
+}
+

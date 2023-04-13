@@ -1,0 +1,19 @@
+body{
+
+}
+nav a{
+    margin: 20px;
+}
+
+nav{
+    background-color: black;
+    padding: 20px;
+}
+nav a{
+    color: antiquewhite;
+    text-decoration: none;
+}
+.icon{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}

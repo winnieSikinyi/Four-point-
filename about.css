@@ -1,0 +1,30 @@
+.body{
+
+}
+nav a{
+margin: 20px;
+}
+nav{
+    background-color: black;
+    padding: 20px;
+}
+nav a{
+    color: antiquewhite;
+    text-decoration: none;
+}
+#text{
+    background-color: gray;
+color: antiquewhite;
+    text-align: center;
+}
+
+.pictures{
+ display: flex;
+}
+#init{
+    margin-left: 30px;
+    height: 300px;
+}
+.message{
+    margin-left: 20px;
+}

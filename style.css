@@ -1,0 +1,51 @@
+.body{
+
+}
+nav a{
+margin: 20px;
+
+}
+
+nav{
+    background-color: black;
+    padding: 20px;
+}
+nav a{
+    color: antiquewhite;
+    text-decoration: none;
+}
+.tower{
+    background-image: url(/Images/towers.jpg);
+    background-size: cover;
+    height: 600px;
+}
+
+.center{
+    text-align: center;
+    color: aliceblue;
+    margin-top: 15px;
+    /* top: 10px;
+    font-size: 2em;
+    font-weight: 1;
+    text-align: center;
+   color: aliceblue;
+  margin-top: 20px; */
+}
+
+.but1{
+background-color: rgb(23, 147, 196);
+color: aliceblue;
+/* margin-left: 40%; */
+padding: 20px 10px;
+border-radius: 30px;
+}
+
+.but2{
+    background-color: transparent;
+    padding: 10px 8px;
+    border-radius: 30px
+ 
+}
+#earn{
+    color: aliceblue;
+}

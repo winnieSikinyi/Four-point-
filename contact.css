@@ -1,0 +1,17 @@
+body{
+ background-image: url(bbbuild.jpeg);
+
+
+}
+nav a{
+    margin: 20px;
+}
+
+nav{
+    background-color: black;
+    padding: 20px;
+}
+nav a{
+    color: antiquewhite;
+    text-decoration: none;
+}

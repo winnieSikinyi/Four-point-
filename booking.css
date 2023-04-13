@@ -1,0 +1,37 @@
+nav a{
+    margin: 20px;
+}
+
+nav{
+    background-color: black;
+    padding: 20px;
+}
+nav a{
+    color: antiquewhite;
+    text-decoration: none;
+}
+h2{
+    text-align: center;
+}
+.butt{
+display: flex;
+margin: 20px;
+gap: 10px;
+justify-content: center;
+}
+#butt1{
+    background-color: rgb(19, 120, 153);
+    color: antiquewhite;
+    padding: 5px;
+    border-radius: 10px ;
+}
+#butt2{
+    padding: 10px 5px;
+    border-radius: 20px;
+}
+.photo{
+   margin-left: 28%;
+}
+body{
+    background-color: gray;
+}
